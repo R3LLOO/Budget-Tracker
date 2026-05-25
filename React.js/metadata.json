@@ -1,0 +1,6 @@
+{
+  "name": "ZAR Budget Tracker",
+  "description": "Comprehensive interactive personal ledger and budget planner for tracking monthly ZAR income, variable expenditures, category targets, and financial insights with data export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
